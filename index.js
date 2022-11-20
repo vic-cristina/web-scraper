@@ -7,6 +7,7 @@ const app = express();
 
 const estrSamples = [
   "climene",
+  "cicloprimogyna",
   "oestrogel",
   "ciclovular",
   "espironolactona",
